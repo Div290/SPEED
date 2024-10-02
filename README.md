@@ -15,4 +15,4 @@ python3 main.py --pretrain --dctrain --src SST2 --tgt imdb
 ```
 
 ## **Code Acknowledgement**
-We acknowledge the [_________] repository and thank them for making their source code publicly available, which was instrumental in our work
+We acknowledge the [DAdEE](https://github.com/Div290/DAdEE) repository and thank them for making their source code publicly available, which was instrumental in our work
